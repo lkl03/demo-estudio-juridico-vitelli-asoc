@@ -1,2 +1,7 @@
-# demo-estudio-juridico-vitelli-asoc
-Demo web para Estudio jurídico Vitelli &amp; asoc. — diseñada por eterlab.
+# Estudio jurídico Vitelli & asoc.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
